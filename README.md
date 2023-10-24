@@ -1,3 +1,3 @@
 # PhoneBook
 A simple phonebook which stores contact details <br>
-![Screenshot](Screenshot.png)
+![alt text]([http://url/to/img.png](https://github.com/mohitrajputt/PhoneBook/blob/main/Screenshot.png)https://github.com/mohitrajputt/PhoneBook/blob/main/Screenshot.png)
